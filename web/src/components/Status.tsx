@@ -150,7 +150,7 @@ const Status: React.FC<props> = ({
         </>
       )}
       <div
-        className="absolute left-2/4 -translate-x-2/4 -translate-y-2/4"
+        className="absolute left-1/4 -translate-x-2/4 -translate-y-2/4"
         style={{
           top: "98dvh",
         }}
